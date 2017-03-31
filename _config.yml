@@ -1,5 +1,5 @@
 # Site settings
-title: Hanson
+title: Liyang
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Liyang|Think Different"  
@@ -44,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "liyang"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
