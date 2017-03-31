@@ -51,9 +51,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : liyang
   disqus :
-      short_name : hanson
+      short_name : liyang
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
